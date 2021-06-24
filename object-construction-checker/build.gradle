@@ -41,7 +41,7 @@ dependencies {
     implementation "com.google.auto.value:auto-value-annotations:${versions.autoValue}"
     testCompile "com.google.auto.value:auto-value-annotations:${versions.autoValue}"
     testCompile "com.google.auto.value:auto-value:${versions.autoValue}"
-    testCompile "com.ryanharter.auto.value:auto-value-parcel:0.2.8"
+    testCompile "com.ryanharter.auto.value:auto-value-parcel:0.2.9"
 
     // For Lombok Builders
     testCompile "org.projectlombok:lombok:${versions.lombok}"
