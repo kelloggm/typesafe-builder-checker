@@ -12,7 +12,7 @@ plugins {
 
 
 ext.versions = [
-    checkerFramework: "3.12.0",
+    checkerFramework: "3.16.0",
     autoValue       : "1.6.5",
     lombok          : "1.18.20",
 ]
