@@ -31,7 +31,7 @@ dependencies {
     testImplementation "org.checkerframework:framework-test:${versions.checkerFramework}"
 
     // CVE and KMS tests both rely on this:
-    testImplementation platform("com.amazonaws:aws-java-sdk-bom:1.11.1034")
+    testImplementation platform("com.amazonaws:aws-java-sdk-bom:1.12.26")
     // For CVE tests
     testImplementation "com.amazonaws:aws-java-sdk-ec2:1.11.1034"
     // For KMS tests
