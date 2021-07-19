@@ -35,7 +35,7 @@ dependencies {
     // For CVE tests
     testImplementation "com.amazonaws:aws-java-sdk-ec2:1.11.1034"
     // For KMS tests
-    testImplementation "com.amazonaws:aws-java-sdk-kms:1.11.1034"
+    testImplementation "com.amazonaws:aws-java-sdk-kms:1.12.26"
 
     // For AutoValue Builders
     implementation "com.google.auto.value:auto-value-annotations:${versions.autoValue}"
